@@ -1,4 +1,4 @@
- # Python for Data Science and Machine Learning 
+ * Python for Data Science and Machine Learning 
 
 > Objective : 
 
@@ -30,3 +30,4 @@ The examples undertaken/coded while demos in class are [available here](./ClassE
 
 
 
+ 
